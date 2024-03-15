@@ -253,4 +253,45 @@ body {
     font-weight: 400;
     padding: 0px 22px;
     border: 0;
+    margin-right: 15px;
+}
+
+/* footer section styles */
+.footer-section {
+    background-color: #111010;
+    width: 1920px;
+    height: 449px;
+    text-align: center;
+    padding-top: 128px;
+}
+
+.footer-title {
+    color: #E55473;
+    font-size: 48px;
+    font-weight: 800;
+    margin-bottom: 0;
+}
+
+.footer-span {
+    color: #FFF;
+    font-size: 48px;
+    font-weight: 800;
+}
+
+.footer-description {
+    color: rgba(255, 255, 255, 0.90);
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    width: 625px;
+    padding: 10px 635px;
+    margin-bottom: 0;
+}
+
+.footer-finishing {
+    color: rgba(255, 255, 255, 0.40);
+    font-size: 16px;
+    font-weight: 400;
+    padding-right: 30px;
+    padding-top: 15px;
 }
